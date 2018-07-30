@@ -1,0 +1,1 @@
+./scripts/run_tac16_evaluation_mod.sh /Users/mayankkejriwal/git-projects/gaia-entity-resolution/gold/gold.tab /Users/mayankkejriwal/git-projects/gaia-entity-resolution/multi_layer_network/output_dir /Users/mayankkejriwal/git-projects/gaia-entity-resolution/multi_layer_network/output_dir 4
